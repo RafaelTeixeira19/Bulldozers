@@ -8,7 +8,7 @@ La réalisation du projet a été faite dans Jupyter Notebook grâce au langage 
 
 Ensuite, la base de données contenait énormément de valeurs NaN et les mauvais formats de variables. La deuxième étape a donc été de les traiter au cas par cas afin de ne pas rendre le prédictions du modèle fausses. La troisième étape a été de mettre les variables au bon format afin de pouvoir entrainer le modèle et faire des prédictions. 
 
-Enfin, la création du modèle et la prédiction du prix de vente a été effectué. D'abord la base de données a été divisée en deux échantillons, celui d'entraînement et celui de validation. Le modèle mporté à partir de Scikit-learn a été le "RandomForestRegressor". Celui-ci permet d'avoir la précision d'un arbre de précision mais l'adapter à des problèmes de prédiction de valeurs linéaires plutôt que de classification. Le modèle a été ensuité entrainé sur l'échantillon adéquat. Un ajustement des paramètres a eu lieu via une validation croisée par recherche aléatoire. Enfin, une prédiction a eu lieu sur l'échantillon de validation. 
+Enfin, la création du modèle et la prédiction du prix de vente a été effectué. D'abord la base de données a été divisée en deux échantillons, celui d'entraînement et celui de validation. Le modèle mporté à partir de Scikit-learn a été le "RandomForestRegressor". Celui-ci permet d'avoir la précision d'un arbre de précision mais l'adapter à des problèmes de prédiction de valeurs linéaires plutôt que de classification. Le modèle a été ensuite entraîné sur l'échantillon adéquat. Un ajustement des paramètres a eu lieu via une validation croisée par recherche aléatoire. Enfin, une prédiction a eu lieu sur l'échantillon de validation. 
 
 ## Résultats
 #### Echantillon test
