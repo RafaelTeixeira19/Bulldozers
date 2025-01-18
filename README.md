@@ -12,11 +12,11 @@ Enfin, la création du modèle et la prédiction du prix de vente a été effect
 
 ## Résultats
 #### Echantillon test
-Coefficient de détermination (R²) = 0.96
-Erreur moyenne absolue (MAE) = $2953
-Erreur logarithmique quadratique moyenne (RMSLE) = 0.145 
+* Coefficient de détermination (R²) = 0.96
+* Erreur moyenne absolue (MAE) = $2953
+* Erreur logarithmique quadratique moyenne (RMSLE) = 0.145 
 
 #### Echantillon de validation 
-Coefficient de détermination (R²) = 0.88
-Erreur moyenne absolue (MAE) = $5951
-Erreur logarithmique quadratique moyenne (RMSLE) = 0.245
+* Coefficient de détermination (R²) = 0.88
+* Erreur moyenne absolue (MAE) = $5951
+* Erreur logarithmique quadratique moyenne (RMSLE) = 0.245
